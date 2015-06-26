@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Larsletsplay1",
+    "longName": "EasySchedule - Schedule your Day!",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "EasySchedule",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "46f02fb9-3bfe-49f6-945e-aef9874f5c29",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
